@@ -161,7 +161,7 @@
         "fieldType": "msg",
         "format": "css",
         "syntax": "mustache",
-        "template": ".bodyContainer {\n    padding: 0 !important;\n    top: 50vh !important;\n    left: 50vw !important;\n    transform: translate(-50%, -50%);\n}\n\n.logoText span {\n    font-size: 30px !important;\n    text-align: center !important;\n}\n\n.logoText span::first-letter {\n    font-size: 50px !important;\n}\n\n.buttonImprove span {\n    color: white !important;\n}\n",
+        "template": ".bodyContainer {\n    max-height: 98vh !important;\n    padding: 0 !important;\n    top: 50vh !important;\n    left: 50vw !important;\n    transform: translate(-50%, -50%);\n}\n\n.logoText span {\n    font-size: 26px !important;\n    text-align: center !important;\n}\n\n.logoText span::first-letter {\n    font-size: 30px !important;\n}\n\n.buttonImprove span {\n    color: white !important;\n}\n",
         "output": "str",
         "x": 250,
         "y": 40,
